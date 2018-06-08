@@ -1,0 +1,8 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" debuggerKind="BUNDLED_LLDB" />
+    </toolchains>
+  </component>
+  <component name="SwiftSettings" SDK_DIR="/Library/Developer/Toolchains/swift-latest.xctoolchain" USE_SWIFT_DEBUGGER="false" />
+</application>
